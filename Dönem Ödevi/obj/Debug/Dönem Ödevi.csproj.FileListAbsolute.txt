@@ -1,0 +1,11 @@
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\bin\Debug\Dönem Ödevi.exe.config
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\bin\Debug\Dönem Ödevi.exe
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\bin\Debug\Dönem Ödevi.pdb
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem Ödevi.csproj.AssemblyReference.cache
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem_Ödevi.Properties.Resources.resources
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem Ödevi.csproj.GenerateResource.cache
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem Ödevi.exe
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem Ödevi.pdb
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem_Ödevi.Adminpanel.resources
+C:\Users\tanka\source\repos\Dönem Ödevi\Dönem Ödevi\obj\Debug\Dönem_Ödevi.AdminAnasayfa.resources
